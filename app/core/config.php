@@ -21,4 +21,4 @@ define('ASSETS', str_replace("app/core", "public/assets", $path));
 define('DB_HOST', 'localhost:4306');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'users');
+define('DB_NAME', 'login-system');
